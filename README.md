@@ -15,5 +15,5 @@ pip install -r requirements.txt
 Make sure Ollama is running locally and the `gemma3:1b` model is available, then start the chatbot:
 
 ```bash
-python main.py
+python3 main.py
 ```
